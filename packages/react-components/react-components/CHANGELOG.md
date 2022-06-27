@@ -1,8 +1,288 @@
 # Change Log - @fluentui/react-components
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:15:59 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0
+
+Mon, 27 Jun 2022 15:15:59 GMT
+
+### Patches
+
+- `@fluentui/react-radio`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-shared-contexts`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-spinner`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-switch`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-tabs`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-tabster`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-text`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-textarea`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-theme`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-tooltip`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-utilities`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-avatar`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-badge`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-button`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-checkbox`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-components`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-context-selector`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-divider`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-image`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-input`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-label`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-link`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-menu`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-popover`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-portal`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-portal-compat`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-portal-compat-context`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-positioning`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-provider`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/keyboard-keys`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-accordion`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- `@fluentui/react-aria`
+  - feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+
+### Changes
+
+- `@fluentui/react-radio`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+  - fix: Removing user-select: 'none' from label. (Humberto.Morimoto@microsoft.com)
+  - chore: Adding scheduler as a peer dependency since this package has a dependency on @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
+- `@fluentui/react-select`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - fix: handle "defaultValue" (olfedias@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+  - chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+  - add custom onChange with value data to react-select (sarah.higley@microsoft.com)
+  - Remove inline prop from Select (sarah.higley@microsoft.com)
+- `@fluentui/react-shared-contexts`
+  - chore: Mark teams-prg owned APIs with @internal (lingfangao@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/react-slider`
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - README, spec and migration guide cleanup. (Humberto.Morimoto@microsoft.com)
+  - README update. (Humberto.Morimoto@microsoft.com)
+  - fix: Removing user-select: 'none' from label. (Humberto.Morimoto@microsoft.com)
+  - chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/react-spinbutton`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - fix: Making increment and decrement buttons of SpinButton have 'type=button' instead of 'type=submit'. (Humberto.Morimoto@microsoft.com)
+- `@fluentui/react-spinner`
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - fix: Move role attribute to root slot and update Spinner documentation (ololubek@microsoft.com)
+  - undefined (Humberto.Morimoto@microsoft.com)
+- `@fluentui/react-switch`
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - fix: Removing user-select: 'none' from label. (Humberto.Morimoto@microsoft.com)
+  - README update. (Humberto.Morimoto@microsoft.com)
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+  - fix: Making thumb be vertically centered in Switch. (Humberto.Morimoto@microsoft.com)
+  - README, spec and migration guide cleanup. (Humberto.Morimoto@microsoft.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/react-tabs`
+  - chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - chore: Adding scheduler as a peer dependency since this package has a dependency on @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
+- `@fluentui/react-tabster`
+  - feat: Add new `legacyTrapFocus` option to `useModalAttributes` (lingfangao@hotmail.com)
+  - chore: Mark teams-prg owned APIs with @internal (lingfangao@hotmail.com)
+  - chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/react-text`
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/react-textarea`
+  - fix: Adding missing spacing to top+bottom padding, font family to large variant, and min-height to size variants. (esteban.230@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+- `@fluentui/react-theme-sass`
+  - Add SASS variables mapped to CSS variables provided by react-theme (miroslav.stastny@microsoft.com)
+  - fix(react-theme-sass): Remove color palette tokens which are no longer present in react-theme (miroslav.stastny@microsoft.com)
+- `@fluentui/react-toolbar`
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/react-tooltip`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+- `@fluentui/react-utilities`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - fix: useOnClickOutside should trigger for webviews (jukapsia@microsoft.com)
+  - feat: add void function component support to slots (39736248+andrefcdias@users.noreply.github.com)
+  - chore: Mark teams-prg owned APIs with @internal (lingfangao@hotmail.com)
+  - chore: moves trigger methods to separate folder (bernardo.sunderhus@gmail.com)
+- `@fluentui/react-avatar`
+  - Adding layout styles and overflow button styles to AvatarGroup. (esteban.230@hotmail.com)
+  - fix: Fixing focus indicator and adding a focus ring to root for the pie layout. (esteban.230@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - chore: Added warning for AvatarGroup to check if children are of type AvatarGroupItem and for AvatarGroupItem to check if it's being used inside an AvatarGroup. (esteban.230@hotmail.com)
+  - fix: Fix wrong border radius for outline in webkit browsers. (esteban.230@hotmail.com)
+  - Adding AvatarGroupItem implementation and AvatarGroup context. (esteban.230@hotmail.com)
+  - chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+  - docs: Adding AvatarGroup stories. (esteban.230@hotmail.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - PresenceBadge accessibility: fix placement of aria-label, sort out Avatar usage and examples (sarah.higley@microsoft.com)
+  - Adding layout styles to AvatarGroupItem. (esteban.230@hotmail.com)
+  - chore: Adding scheduler as a peer dependency since this package has a dependency on @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
+- `@fluentui/react-badge`
+  - README, spec and migration guide cleanup. (Humberto.Morimoto@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - PresenceBadge accessibility: fix placement of aria-label, sort out Avatar usage and examples (sarah.higley@microsoft.com)
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+- `@fluentui/react-button`
+  - README and migration guide cleanup. (Humberto.Morimoto@microsoft.com)
+  - Button: Adding missing forced color adjust overrides. (Humberto.Morimoto@microsoft.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - Button: Fixing hover styles in High Contrast mode. (Humberto.Morimoto@microsoft.com)
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+- `@fluentui/react-card`
+  - feat: add `orientation` prop (39736248+andrefcdias@users.noreply.github.com)
+  - chore: add basic API documentation (39736248+andrefcdias@users.noreply.github.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - feat: Add focus indicators (39736248+andrefcdias@users.noreply.github.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/react-checkbox`
+  - README, spec and migration guide cleanup. (Humberto.Morimoto@microsoft.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - fix: Removing user-select: 'none' from label. (Humberto.Morimoto@microsoft.com)
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+- `@fluentui/react-components`
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - chore: Adding scheduler as a peer dependency since this package has a dependency on packages that use @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - chore: Re-exporting AvatarGroup and AvatarGroupItem in unstable. (esteban.230@hotmail.com)
+- `@fluentui/react-conformance-griffel`
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+- `@fluentui/react-context-selector`
+  - chore: Mark teams-prg owned APIs with @internal (lingfangao@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/react-divider`
+  - chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - README, spec and migration guide cleanup. (Humberto.Morimoto@microsoft.com)
+- `@fluentui/react-image`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - README, spec and migration guide cleanup for react-image. (Humberto.Morimoto@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+- `@fluentui/react-input`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+- `@fluentui/react-label`
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/react-link`
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - Fixing mention of SpinButton in README. (Humberto.Morimoto@microsoft.com)
+  - README and migration guide cleanup. (Humberto.Morimoto@microsoft.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/react-menu`
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+  - fix: improve internal typings (bernardo.sunderhus@gmail.com)
+  - chore: Adding scheduler as a peer dependency since this package has a dependency on @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
+  - fix: submenu indicator should be filled on hover (yuanboxue@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - fix: Use modern `::before` pseudoelement (lingfangao@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - feat: Close context menu on scroll, new closeOnScroll prop (lingfangao@hotmail.com)
+- `@fluentui/react-overflow`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - fix: do not throw in SSR (olfedias@microsoft.com)
+  - chore: Mark teams-prg owned APIs with @internal (lingfangao@hotmail.com)
+  - chore: Adding scheduler as a peer dependency since this package has a dependency on @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+- `@fluentui/react-popover`
+  - feat: Adds `legacyTrapFocus` prop (lingfangao@hotmail.com)
+  - Updates getTriggerChild internal usage (bernardo.sunderhus@gmail.com)
+  - chore: Adding scheduler as a peer dependency since this package has a dependency on @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
+  - fix: Add arrow padding to Popover arrrow (lingfangao@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+- `@fluentui/react-portal`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - feat: apply zIndex to Portal (olfedias@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - fix: update to create new stacking context (olfedias@microsoft.com)
+- `@fluentui/react-portal-compat`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/react-positioning`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - chore: Mark teams-prg owned APIs with @internal (lingfangao@hotmail.com)
+  - chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+- `@fluentui/react-provider`
+  - fix: properly handle text direction in styles (olfedias@microsoft.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- `@fluentui/babel-preset-global-context`
+  - feat: beta release (lingfangao@hotmail.com)
+- `@fluentui/global-context`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - chore: Adding scheduler as a peer dependency since this package has a dependency on @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
+  - feat: beta release (lingfangao@hotmail.com)
+- `@fluentui/priority-overflow`
+  - chore: Mark internal APIs with @internal (lingfangao@hotmail.com)
+- `@fluentui/react-accordion`
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - chore: Adding scheduler as a peer dependency since this package has a dependency on @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - fix: Removing user-select: 'none' from AccordionHeader styles. (Humberto.Morimoto@microsoft.com)
+  - chore: updates AccordionHeader to follow design spec tokens (bernardo.sunderhus@gmail.com)
+- `@fluentui/react-alert`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - Bump Griffel dependencies (lingfangao@hotmail.com)
+  - chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+- `@fluentui/react-aria`
+  - Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+  - chore: Mark internal APIs with @internal (lingfangao@hotmail.com)
 
 ## [9.0.0-rc.15](https://github.com/microsoft/fluentui/tree/@fluentui/react-components_v9.0.0-rc.15)
 

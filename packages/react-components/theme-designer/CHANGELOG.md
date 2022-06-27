@@ -1,8 +1,19 @@
 # Change Log - @fluentui/theme-designer
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:17:12 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-alpha.0
+
+Mon, 27 Jun 2022 15:17:12 GMT
+
+### Changes
+
+- Bump @fluentui/react-theme to v9.0.0
+- Bump @fluentui/react-utilities to v9.0.0
+- Bump @fluentui/react-components to v9.0.0
+- Bump @fluentui/react-alert to v9.0.0-beta.4
 
 ## [9.0.0-alpha.0](https://github.com/microsoft/fluentui/tree/@fluentui/theme-designer_v9.0.0-alpha.0)
 

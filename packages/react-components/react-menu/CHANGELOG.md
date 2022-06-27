@@ -1,8 +1,36 @@
 # Change Log - @fluentui/react-menu
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:47 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0
+
+Mon, 27 Jun 2022 15:16:47 GMT
+
+### Patches
+
+- feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- Bump @fluentui/keyboard-keys to v9.0.0
+- Bump @fluentui/react-context-selector to v9.0.0
+- Bump @fluentui/react-portal to v9.0.0
+- Bump @fluentui/react-positioning to v9.0.0
+- Bump @fluentui/react-shared-contexts to v9.0.0
+- Bump @fluentui/react-tabster to v9.0.0
+- Bump @fluentui/react-theme to v9.0.0
+- Bump @fluentui/react-utilities to v9.0.0
+- Bump @fluentui/react-conformance-griffel to v9.0.0-beta.9
+
+### Changes
+
+- chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+- fix: improve internal typings (bernardo.sunderhus@gmail.com)
+- chore: Adding scheduler as a peer dependency since this package has a dependency on @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
+- fix: submenu indicator should be filled on hover (yuanboxue@microsoft.com)
+- Bump Griffel dependencies (lingfangao@hotmail.com)
+- fix: Use modern `::before` pseudoelement (lingfangao@hotmail.com)
+- Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- feat: Close context menu on scroll, new closeOnScroll prop (lingfangao@hotmail.com)
 
 ## [9.0.0-rc.14](https://github.com/microsoft/fluentui/tree/@fluentui/react-menu_v9.0.0-rc.14)
 

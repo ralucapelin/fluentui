@@ -2,6 +2,21 @@
   "name": "@fluentui/react-portal-compat-context",
   "entries": [
     {
+      "date": "Mon, 27 Jun 2022 15:16:57 GMT",
+      "tag": "@fluentui/react-portal-compat-context_v9.0.0",
+      "version": "9.0.0",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-portal-compat-context",
+            "commit": "8672860cf9927610a22d350c00f7790554c00404",
+            "comment": "feat: Initial 9.0.0 release"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 23 May 2022 12:13:34 GMT",
       "tag": "@fluentui/react-portal-compat-context_v9.0.0-rc.2",
       "version": "9.0.0-rc.2",

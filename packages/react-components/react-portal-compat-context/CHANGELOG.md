@@ -1,8 +1,16 @@
 # Change Log - @fluentui/react-portal-compat-context
 
-This log was last generated on Mon, 23 May 2022 12:13:34 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:57 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0
+
+Mon, 27 Jun 2022 15:16:57 GMT
+
+### Patches
+
+- feat: Initial 9.0.0 release (lingfangao@hotmail.com)
 
 ## [9.0.0-rc.2](https://github.com/microsoft/fluentui/tree/@fluentui/react-portal-compat-context_v9.0.0-rc.2)
 

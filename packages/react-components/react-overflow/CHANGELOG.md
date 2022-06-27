@@ -1,8 +1,24 @@
 # Change Log - @fluentui/react-overflow
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:51 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-beta.5
+
+Mon, 27 Jun 2022 15:16:51 GMT
+
+### Changes
+
+- Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- fix: do not throw in SSR (olfedias@microsoft.com)
+- chore: Mark teams-prg owned APIs with @internal (lingfangao@hotmail.com)
+- chore: Adding scheduler as a peer dependency since this package has a dependency on @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
+- Bump Griffel dependencies (lingfangao@hotmail.com)
+- Bump @fluentui/priority-overflow to v9.0.0-beta.2
+- Bump @fluentui/react-context-selector to v9.0.0
+- Bump @fluentui/react-theme to v9.0.0
+- Bump @fluentui/react-utilities to v9.0.0
 
 ## [9.0.0-beta.4](https://github.com/microsoft/fluentui/tree/@fluentui/react-overflow_v9.0.0-beta.4)
 

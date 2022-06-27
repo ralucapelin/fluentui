@@ -1,8 +1,27 @@
 # Change Log - @fluentui/react-tabster
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:14 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0
+
+Mon, 27 Jun 2022 15:16:14 GMT
+
+### Patches
+
+- feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- Bump @fluentui/react-shared-contexts to v9.0.0
+- Bump @fluentui/react-theme to v9.0.0
+- Bump @fluentui/react-utilities to v9.0.0
+
+### Changes
+
+- feat: Add new `legacyTrapFocus` option to `useModalAttributes` (lingfangao@hotmail.com)
+- chore: Mark teams-prg owned APIs with @internal (lingfangao@hotmail.com)
+- chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+- Bump Griffel dependencies (lingfangao@hotmail.com)
+- Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
 
 ## [9.0.0-rc.14](https://github.com/microsoft/fluentui/tree/@fluentui/react-tabster_v9.0.0-rc.14)
 

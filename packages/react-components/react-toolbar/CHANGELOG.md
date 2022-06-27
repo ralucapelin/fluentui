@@ -1,8 +1,25 @@
 # Change Log - @fluentui/react-toolbar
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:21 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-beta.1
+
+Mon, 27 Jun 2022 15:16:21 GMT
+
+### Changes
+
+- Bump Griffel dependencies (lingfangao@hotmail.com)
+- chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+- Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- Bump @fluentui/react-button to v9.0.0
+- Bump @fluentui/react-divider to v9.0.0
+- Bump @fluentui/react-theme to v9.0.0
+- Bump @fluentui/react-utilities to v9.0.0
+- Bump @fluentui/react-radio to v9.0.0
+- Bump @fluentui/react-tabster to v9.0.0
+- Bump @fluentui/react-conformance-griffel to v9.0.0-beta.9
 
 ## [9.0.0-beta.0](https://github.com/microsoft/fluentui/tree/@fluentui/react-toolbar_v9.0.0-beta.0)
 

@@ -1,8 +1,22 @@
 # Change Log - @fluentui/react-combobox
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:17:12 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-beta.3
+
+Mon, 27 Jun 2022 15:17:12 GMT
+
+### Changes
+
+- Bump @fluentui/keyboard-keys to v9.0.0
+- Bump @fluentui/react-context-selector to v9.0.0
+- Bump @fluentui/react-portal to v9.0.0
+- Bump @fluentui/react-positioning to v9.0.0
+- Bump @fluentui/react-theme to v9.0.0
+- Bump @fluentui/react-utilities to v9.0.0
+- Bump @fluentui/react-conformance-griffel to v9.0.0-beta.9
 
 ## [9.0.0-beta.3](https://github.com/microsoft/fluentui/tree/@fluentui/react-combobox_v9.0.0-beta.3)
 

@@ -1,8 +1,16 @@
 # Change Log - @fluentui/react-theme
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:20 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0
+
+Mon, 27 Jun 2022 15:16:20 GMT
+
+### Patches
+
+- feat: Initial 9.0.0 release (lingfangao@hotmail.com)
 
 ## [9.0.0-rc.10](https://github.com/microsoft/fluentui/tree/@fluentui/react-theme_v9.0.0-rc.10)
 

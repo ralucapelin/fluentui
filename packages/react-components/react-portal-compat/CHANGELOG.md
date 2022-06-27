@@ -1,8 +1,23 @@
 # Change Log - @fluentui/react-portal-compat
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:57 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0
+
+Mon, 27 Jun 2022 15:16:57 GMT
+
+### Patches
+
+- feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- Bump @fluentui/react-portal-compat-context to v9.0.0
+- Bump @fluentui/react-components to v9.0.0
+- Bump @fluentui/react-shared-contexts to v9.0.0
+
+### Changes
+
+- Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
 
 ## [9.0.0-rc.7](https://github.com/microsoft/fluentui/tree/@fluentui/react-portal-compat_v9.0.0-rc.7)
 

@@ -1,8 +1,27 @@
 # Change Log - @fluentui/react-slider
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:04 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-beta.20
+
+Mon, 27 Jun 2022 15:16:04 GMT
+
+### Changes
+
+- Bump Griffel dependencies (lingfangao@hotmail.com)
+- README, spec and migration guide cleanup. (Humberto.Morimoto@microsoft.com)
+- README update. (Humberto.Morimoto@microsoft.com)
+- fix: Removing user-select: 'none' from label. (Humberto.Morimoto@microsoft.com)
+- chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+- Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- Bump @fluentui/react-shared-contexts to v9.0.0
+- Bump @fluentui/react-tabster to v9.0.0
+- Bump @fluentui/react-theme to v9.0.0
+- Bump @fluentui/react-utilities to v9.0.0
+- Bump @fluentui/react-conformance-griffel to v9.0.0-beta.9
+- Bump @fluentui/react-label to v9.0.0
 
 ## [9.0.0-beta.19](https://github.com/microsoft/fluentui/tree/@fluentui/react-slider_v9.0.0-beta.19)
 

@@ -1,8 +1,25 @@
 # Change Log - @fluentui/react-select
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:00 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-beta.4
+
+Mon, 27 Jun 2022 15:16:00 GMT
+
+### Changes
+
+- Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- fix: handle "defaultValue" (olfedias@microsoft.com)
+- Bump Griffel dependencies (lingfangao@hotmail.com)
+- chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+- chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+- add custom onChange with value data to react-select (sarah.higley@microsoft.com)
+- Remove inline prop from Select (sarah.higley@microsoft.com)
+- Bump @fluentui/react-theme to v9.0.0
+- Bump @fluentui/react-utilities to v9.0.0
+- Bump @fluentui/react-conformance-griffel to v9.0.0-beta.9
 
 ## [9.0.0-beta.3](https://github.com/microsoft/fluentui/tree/@fluentui/react-select_v9.0.0-beta.3)
 

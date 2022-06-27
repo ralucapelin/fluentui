@@ -1,8 +1,16 @@
 # Change Log - @fluentui/ts-minbar-test-react-components
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:17:12 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-rc.0
+
+Mon, 27 Jun 2022 15:17:12 GMT
+
+### Patches
+
+- Bump @fluentui/react-components to v9.0.0
 
 ## [9.0.0-rc.0](https://github.com/microsoft/fluentui/tree/@fluentui/ts-minbar-test-react-components_v9.0.0-rc.0)
 

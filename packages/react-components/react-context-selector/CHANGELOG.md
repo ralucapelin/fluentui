@@ -1,8 +1,22 @@
 # Change Log - @fluentui/react-context-selector
 
-This log was last generated on Tue, 31 May 2022 21:28:50 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:39 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0
+
+Mon, 27 Jun 2022 15:16:39 GMT
+
+### Patches
+
+- feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- Bump @fluentui/react-utilities to v9.0.0
+
+### Changes
+
+- chore: Mark teams-prg owned APIs with @internal (lingfangao@hotmail.com)
+- Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
 
 ## [9.0.0-rc.10](https://github.com/microsoft/fluentui/tree/@fluentui/react-context-selector_v9.0.0-rc.10)
 

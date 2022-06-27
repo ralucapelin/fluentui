@@ -2,6 +2,41 @@
   "name": "@fluentui/react-shared-contexts",
   "entries": [
     {
+      "date": "Mon, 27 Jun 2022 15:16:03 GMT",
+      "tag": "@fluentui/react-shared-contexts_v9.0.0",
+      "version": "9.0.0",
+      "comments": {
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-shared-contexts",
+            "commit": "8672860cf9927610a22d350c00f7790554c00404",
+            "comment": "feat: Initial 9.0.0 release"
+          },
+          {
+            "author": "beachball",
+            "package": "@fluentui/react-shared-contexts",
+            "comment": "Bump @fluentui/react-theme to v9.0.0",
+            "commit": "04bc7b67a05767d7030a384a8296ed3f195365e8"
+          }
+        ],
+        "prerelease": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-shared-contexts",
+            "commit": "2da4428ae7d6e464c538b7ed10e425ce0e531144",
+            "comment": "chore: Mark teams-prg owned APIs with @internal"
+          },
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-shared-contexts",
+            "commit": "e0aabd850b15adf9c151ebd4e332f7c50ad6cfdf",
+            "comment": "Update 9.0.0-rc dependencies to use caret range"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 23 Jun 2022 14:25:31 GMT",
       "tag": "@fluentui/react-shared-contexts_v9.0.0-rc.11",
       "version": "9.0.0-rc.11",

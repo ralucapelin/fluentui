@@ -1,8 +1,41 @@
 # Change Log - @fluentui/react-avatar
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:25 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0
+
+Mon, 27 Jun 2022 15:16:25 GMT
+
+### Patches
+
+- feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- Bump @fluentui/react-badge to v9.0.0
+- Bump @fluentui/react-context-selector to v9.0.0
+- Bump @fluentui/react-popover to v9.0.0
+- Bump @fluentui/react-shared-contexts to v9.0.0
+- Bump @fluentui/react-tabster to v9.0.0
+- Bump @fluentui/react-theme to v9.0.0
+- Bump @fluentui/react-tooltip to v9.0.0
+- Bump @fluentui/react-utilities to v9.0.0
+- Bump @fluentui/react-conformance-griffel to v9.0.0-beta.9
+
+### Changes
+
+- Adding layout styles and overflow button styles to AvatarGroup. (esteban.230@hotmail.com)
+- fix: Fixing focus indicator and adding a focus ring to root for the pie layout. (esteban.230@hotmail.com)
+- Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- chore: Added warning for AvatarGroup to check if children are of type AvatarGroupItem and for AvatarGroupItem to check if it's being used inside an AvatarGroup. (esteban.230@hotmail.com)
+- fix: Fix wrong border radius for outline in webkit browsers. (esteban.230@hotmail.com)
+- Adding AvatarGroupItem implementation and AvatarGroup context. (esteban.230@hotmail.com)
+- chore: Using ::before and ::after instead of :before and :after. (Humberto.Morimoto@microsoft.com)
+- chore: Update @fluentui/react-icons to latest version (olfedias@microsoft.com)
+- docs: Adding AvatarGroup stories. (esteban.230@hotmail.com)
+- Bump Griffel dependencies (lingfangao@hotmail.com)
+- PresenceBadge accessibility: fix placement of aria-label, sort out Avatar usage and examples (sarah.higley@microsoft.com)
+- Adding layout styles to AvatarGroupItem. (esteban.230@hotmail.com)
+- chore: Adding scheduler as a peer dependency since this package has a dependency on @fluentui/react-context-selector. (Humberto.Morimoto@microsoft.com)
 
 ## [9.0.0-rc.13](https://github.com/microsoft/fluentui/tree/@fluentui/react-avatar_v9.0.0-rc.13)
 

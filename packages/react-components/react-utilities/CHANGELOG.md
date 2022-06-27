@@ -1,8 +1,25 @@
 # Change Log - @fluentui/react-utilities
 
-This log was last generated on Tue, 31 May 2022 21:28:50 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:16:23 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0
+
+Mon, 27 Jun 2022 15:16:23 GMT
+
+### Patches
+
+- feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- Bump @fluentui/keyboard-keys to v9.0.0
+
+### Changes
+
+- Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
+- fix: useOnClickOutside should trigger for webviews (jukapsia@microsoft.com)
+- feat: add void function component support to slots (39736248+andrefcdias@users.noreply.github.com)
+- chore: Mark teams-prg owned APIs with @internal (lingfangao@hotmail.com)
+- chore: moves trigger methods to separate folder (bernardo.sunderhus@gmail.com)
 
 ## [9.0.0-rc.10](https://github.com/microsoft/fluentui/tree/@fluentui/react-utilities_v9.0.0-rc.10)
 

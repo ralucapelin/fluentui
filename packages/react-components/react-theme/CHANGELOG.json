@@ -2,6 +2,29 @@
   "name": "@fluentui/react-theme",
   "entries": [
     {
+      "date": "Mon, 27 Jun 2022 15:16:20 GMT",
+      "tag": "@fluentui/react-theme_v9.0.0",
+      "version": "9.0.0",
+      "comments": {
+        "none": [
+          {
+            "author": "tristan.watanabe@gmail.com",
+            "package": "@fluentui/react-theme",
+            "commit": "7e21b27395eeca6273e8cc7fda1964a358ab5b50",
+            "comment": "chore: Move Theme stories to folder with index entry."
+          }
+        ],
+        "patch": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-theme",
+            "commit": "8672860cf9927610a22d350c00f7790554c00404",
+            "comment": "feat: Initial 9.0.0 release"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 23 Jun 2022 14:25:31 GMT",
       "tag": "@fluentui/react-theme_v9.0.0-rc.10",
       "version": "9.0.0-rc.10",

@@ -1,8 +1,27 @@
 # Change Log - @fluentui/react-provider
 
-This log was last generated on Thu, 23 Jun 2022 14:25:31 GMT and should not be manually modified.
+This log was last generated on Mon, 27 Jun 2022 15:17:00 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0
+
+Mon, 27 Jun 2022 15:17:00 GMT
+
+### Patches
+
+- feat: Initial 9.0.0 release (lingfangao@hotmail.com)
+- Bump @fluentui/react-shared-contexts to v9.0.0
+- Bump @fluentui/react-tabster to v9.0.0
+- Bump @fluentui/react-theme to v9.0.0
+- Bump @fluentui/react-utilities to v9.0.0
+- Bump @fluentui/react-conformance-griffel to v9.0.0-beta.9
+
+### Changes
+
+- fix: properly handle text direction in styles (olfedias@microsoft.com)
+- Bump Griffel dependencies (lingfangao@hotmail.com)
+- Update 9.0.0-rc dependencies to use caret range (lingfangao@hotmail.com)
 
 ## [9.0.0-rc.14](https://github.com/microsoft/fluentui/tree/@fluentui/react-provider_v9.0.0-rc.14)
 
