@@ -130,7 +130,7 @@ jobs:
       uses: azure/CLI@v1
       with:
         inlineScript: |
-          az storage blob upload-batch -d '$web' -s 'packages/fluentui/docs/dist' --connection-string $ConnectionString
+          az storage blob upload-batch -d '$web' -s 'apps/vr-tests/dist/storybook' --connection-string $ConnectionString
 
     - name: Start @fluentui/react VR Test
       run: yarn workspace @fluentui/vr-tests screener
@@ -189,7 +189,7 @@ jobs:
       uses: azure/CLI@v1
       with:
         inlineScript: |
-          az storage blob upload-batch -d '$web' -s 'packages/fluentui/docs/dist' --connection-string $ConnectionString
+          az storage blob upload-batch -d '$web' -s 'apps/vr-tests-react-components/dist/storybook' --connection-string $ConnectionString
 
     - name: Start @fluentui/react-components VR Test
       run: yarn workspace @fluentui/vr-tests-react-components screener
